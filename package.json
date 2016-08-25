@@ -4,7 +4,7 @@
   "description": "react-redux-webpack-components",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "init": "webpack --progress --config webpack.dev.config.js",
   },
   "keywords": [
     "react",
