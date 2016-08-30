@@ -1,9 +1,0 @@
-import React, { PropTypes,Component } from 'react';
-
-export default class Hello extends Component {
-	render(){
-		return (
-			<div> Hello world </div>
-		)
-	}
-}
